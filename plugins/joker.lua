@@ -9,7 +9,7 @@ end
 
 return { 
   patterns = { 
-     "^(@lua_3)$"
+     "^(@TQ_QT)$"
 
   }, 
   run = run, 
