@@ -24,10 +24,12 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ورأهأَ خلي👇🏿
 **************
 git clone https://github.com/team-smart/smart_team.git
-*****************************************************
+gitcgitclone https://github.com/takeali1996/Botalarqeen.git
+****************************************************
 ورهأ خلي 👇🏿
 **************************
-cd smart_team
+cd smart_teamcd 
+cd Botalarqeen
 **************************
 ورهأَ خلي👇🏿 
 **************************
