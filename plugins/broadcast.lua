@@ -3,9 +3,8 @@
 #:[[
 #For info file
 #Developer :  
-#JOker < @lua_3 > 
-#JoZef < @jozef3 >
-#our channel: @Smart_Team
+#
+#our channel: @TQ_QT
 #File type : (اذاعه)
 🔱➖➖➖➖➖➖➖➖➖➖➖➖➖➖🔱
 —]]
@@ -31,9 +30,9 @@ local function run(msg, matches)
 end
 return {
   patterns = {
-    "^[#!/](broadcast) +(.+)$",
+    "^[#!/](بث) +(.+)$",
     "^[#!/](bc) (%d+) (.*)$",
-    "^(broadcast) +(.+)$",
+    "^(بث) +(.+)$",
     "^(bc) (%d+) (.*)$",
   },
   run = run
