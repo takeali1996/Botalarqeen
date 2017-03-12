@@ -12,16 +12,16 @@
 do
 
  function run(msg, matches)
- local ch = '190385827'..msg.to.id -- هنا خلي ايديك
+ local ch = '71755045'..msg.to.id -- هنا خلي ايديك
  local fuse = 'طلب احدهم مجموعه🌚\n\n❤️ايديه ' .. msg.from.id .. '\n\nاسمه❤️ ' .. msg.from.print_name ..'\n\nمعرفه❤️ @' .. msg.from.username ..'\n\nايدي المجموعه  ❤️ '..msg.to.id.. '\n\n❤️طلب منك؟\n' .. matches[1]
  local fuses = '!printf user#id' .. msg.from.id
 
 
    local text = matches[1]
-   local chat = "user#id"..190385827 --هنا خلي ايدك
+   local chat = "user#id"..71755045 --هنا خلي ايدك
 
   local sends = send_msg(chat, fuse, ok_cb, false)
-return 'تم ارسال طلبك لراده بوت  لمجموعتك الى المطور \n @fuck_8_you\nالرجاء انتضار المطور حتى يضيفلك البوت  بمجموعتك  عزيزي \n\n@'..msg.from.username end
+return 'تم ارسال طلبك لراده بوت  لمجموعتك الى المطور \n @TQ_QT\nالرجاء انتضار المطور حتى يضيفلك البوت  بمجموعتك  عزيزي \n\n@'..msg.from.username end
  end
  return {
 
