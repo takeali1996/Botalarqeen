@@ -3,9 +3,7 @@
 #:[[
 #For info file
 #Developer :  
-#JOker < @lua_3 > 
-#JoZef < @jozef3 >
-#our channel: @Smart_Team
+
 #File type : (الاذان)
 🔱➖➖➖➖➖➖➖➖➖➖➖➖➖➖🔱
 —]]
