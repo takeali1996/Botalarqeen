@@ -20,7 +20,7 @@ end
 
 return { 
   patterns = { 
-     "^(جوكر)$"
+     "^(تقي)$"
 
   }, 
   run = run, 
