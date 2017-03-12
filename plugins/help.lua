@@ -3,7 +3,7 @@ function run(msg, matches)
   if matches[1] == "help" and is_momod(msg) then
     return [[
     WeLcoOomE 🎭
-👋 اهلا وسهلا بك في بوت  S M A R T ^ B O T
+👋 اهلا وسهلا بك في بوت  Ktk kit^ B O T
 ألاوامر المساعدة الخاصة بلبوت هي : 
 ➖🔹➖🔸➖🔹➖
 🔺 /list owner : الاوامر خاصه للمدراء 
@@ -14,9 +14,9 @@ function run(msg, matches)
 🔻 /list set :  الاوامر الحذف + الوضع 
 🔺 /list warn : الاومر الحماية  مع التحذير
 ➖🔹➖🔸➖🔹➖
-SUDO [@fuck_8_you] 🔱
-(Channel)@help_telp 👾
-Channel team : @smart_team
+SUDO [@TQ_QT] 🔱
+
+مطور. البوت     : @TQ_QT
     ]]
   elseif matches[1] == "list owner" and is_momod(msg) then
      return [[
@@ -39,9 +39,8 @@ ____________________
 ✇/blocks word : قائمة الكلمات |🎙
 ✇/clean blocks word : مسح الكل|🚫مات
 ____________________
-SUDO [@fuck_8_you] 🔱
-(Channel)@help_telp 👾
-Channel team : @smart_team
+SUDO [@TQ_QT] 🔱
+قناتنه : @TO_AT
     ]]
   elseif  matches[1] == "list lock" and is_momod(msg) then 
     return [[
@@ -103,9 +102,8 @@ _________________________
 🔒/on reply : منع الردود | 🏮
 🔓/off  reply : إلغاء تفعيل الردود | 🏮
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-SUDO [@fuck_8_you] 🔱
-(Channel)@help_telp 👾
-Channel team : @smart_team
+SUDO [@TQ_QT] 🔱
+قناتنه : @TO_AT
     ]]
   elseif  matches[1] == "list ban" and is_momod(msg) then 
     return [[
@@ -122,9 +120,9 @@ Channel team : @smart_team
 ♺ /id : ايدي | 🆔
 ♺ /kickme : مغادرة | 🚶
 _________________________
-SUDO [@fuck_8_you] 🔱
-(Channel)@help_telp 👾
-Channel team : @smart_team
+SUDO [@tq_Qt] 🔱
+
+قناتنه : @TO_AT
  
      ]]
    elseif  matches[1] == "list all" and is_momod(msg) then 
@@ -158,9 +156,8 @@ _____________________________________
 ✇/info لمعرفه معلوماتك في المجموعه | 🔆
 ✇/version  لظهار معلومات على السورس |🤖 
 _______________________________________
-SUDO [@fuck_8_you] 🔱
-(Channel)@help_telp 👾
-Channel team : @smart_team
+SUDO [@TQ_QT] 🔱
+ قناتنه.: @TO_AT
    ]]
  elseif  matches[1] == "list sudo" and is_momod(msg) then 
     return [[
@@ -189,11 +186,9 @@ ________________________
 ✇ /run :: اعادة تشغيل البوت | 🕹
 ✇ /install ::ترسيـت البوت | 🕜
 ________________________
-SUDO [@fuck_8_you] 🔱
-(Channel)@help_telp 👾
-Channel team : @smart_team
+SUDO [@tq_qt] 🔱
 
-
+قناتنه : @to_at
     ]]
  elseif  matches[1] == "list set" and is_momod(msg) then 
     return [[
@@ -217,9 +212,9 @@ __________________
 ♺username : المعرف |@
 ♺all : لطرد الكل |🎗
 ____________________
-SUDO [@fuck_8_you] 🔱
-(Channel)@help_telp 👾
-Channel team : @smart_team
+SUDO [@tq_qt] 🔱
+
+قناتنه : @to_at
     ]]
   elseif  matches[1] == "list warn" and is_momod(msg) then 
     return [[
@@ -233,9 +228,9 @@ Channel team : @smart_team
 🔒/on links :منع الروابط | 🌐
 🔓/off links :السماح بالروابط | 🌐
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-SUDO [@fuck_8_you] 🔱
-(Channel)@help_telp 👾
-Channel team : @smart_team
+SUDO [@TO_OT] 🔱
+
+قناتنه : @to_at
 ]]
 
   end
